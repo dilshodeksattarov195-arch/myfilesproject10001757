@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartserify",
+        "uuid": 16190755,
+        "checksum": "04mjrfe"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
